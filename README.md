@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shushankranjan&label=Profile%20views&color=0e75b6&style=flat" alt="shushankranjan" /> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking ,Penteration Testing**
+- 🌱 I’m currently learning **Ethical Hacking ,Penetration Testing**
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
