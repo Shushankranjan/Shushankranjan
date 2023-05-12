@@ -29,6 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shushankranjan&" alt="shushankranjan" /></p>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/shushankranjan/shushankranjan/output/github-contribution-grid-snake-dark.svg" /></div>
-
-
