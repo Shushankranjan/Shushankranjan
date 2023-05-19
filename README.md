@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on **Cyber Security Projects**<br>🌱 I’m currently learning **Ethical Hacking , Penetration Testing**<br>💬 Ask me about **Networking , Ethical Hacking**<br>⚡ Fun fact - **I am lazy but smart**
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" width="400" src="">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuuushank) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShushankRanjan) 
