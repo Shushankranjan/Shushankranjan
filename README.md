@@ -1,31 +1,27 @@
-<h1 align="center">Hi 👋, I'm Shushank Ranjan</h1>
-<h3 align="center">Be Aware Be Safe !</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shushankranjan&label=Profile%20views&color=0e75b6&style=flat" alt="shushankranjan" /> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking ,Penetration Testing**
+# 💫 About Me:
 
-- 👯 I’m looking to collaborate on **Cyber Security Projects**
+🔭 I’m currently working on Cyber Security Projects <br>🌱 I’m currently learning Ethical Hacking , Penetration Testing <br>💬 Ask me about Networking , Ethical Hacking <br>⚡ Fun fact - I am lazy but smart 
 
-- 💬 Ask me about **Cyber Security, Networking**
+## 🌐 Socials:
 
-- 📫 How to reach me **ranjanshushank23@gmail.com**
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuuushank) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shushank Ranjan) 
 
-- ⚡ Fun fact **I think I am funny**
+# 💻 Tech Stack:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shushank ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shushank ranjan" height="30" width="40" /></a>
-<a href="https://instagram.com/shuuushank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuuushank" height="30" width="40" /></a>
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+# 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shushankranjan&show_icons=true&locale=en&layout=compact" alt="shushankranjan" /></p>
+![](https://github-readme-stats.vercel.app/api?username=shushankranjan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shushankranjan&show_icons=true&locale=en" alt="shushankranjan" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shushankranjan&theme=tokyonight&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shushankranjan&" alt="shushankranjan" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shushankranjan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
