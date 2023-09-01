@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Cyber Security Projects**<br>🌱 I’m currently learning **Ethical Hacking , Penetration Testing**<br>💬 Ask me about **Networking , Ethical Hacking**<br>⚡ Fun fact - **I am lazy but smart**
+🔭 I’m currently working on **Web Development Projects**<br>🌱 I’m currently learning **javascipt**<br>💬 Ask me about **HTML,CSS**<br>⚡ Fun fact - **I am lazy but smart**
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/5c/39/30/5c3930bacf6cb3740db2916d6004181c.gif">
 
